@@ -1,0 +1,22 @@
+{
+  "name": "whelement",
+  "version": "1.0.0",
+  "description": "WHELEMENT APPLICATION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legoskid/whelement.git"
+  },
+  "author": "winxp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legoskid/whelement/issues"
+  },
+  "homepage": "https://github.com/legoskid/whelement#readme",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
